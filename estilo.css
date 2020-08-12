@@ -1,0 +1,17 @@
+body{
+    background: #d2d2c1 url('imagens/fundo.png')  /*cor de fundo*/
+    
+    font: 16px arial, helvetica, sans-serif
+}
+#principal{ /*DIV PRINCIPAL*/
+    border: 1px solid red;  /*bordas*/
+    width: 900px; /*largura*/
+    
+}
+#menu{ /*DIV MENU*/
+    background: #c5c5b2;  /*cor de fundo*/
+    border: 1px solid red; /*bordas*/
+    width: 866px;  /*largura borda*/
+    padding: 18px ;  /*espaçamento interno*/
+
+}
