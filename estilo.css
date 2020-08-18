@@ -28,5 +28,13 @@ a { /*linnks da paginas (home,contato...)*/
 }
 .centralizar{ /*centralizando div rodape*/
     text-align: center;
+}
 
+.img-campanha { /*fotos campanha-publi*/
+    border: 10px solid #c3c3ae; /*bordas fotos*/
+
+}
+h1 {  /*todos h1*/
+    color: #828271;
+    font-size: 1.2em;
 }
