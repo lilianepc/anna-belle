@@ -25,6 +25,8 @@ a { /*linnks da paginas (home,contato...)*/
     font-weight: bold;  /*tipos de letras */
     padding: 5px; /*espaço interno entre os links*/
 
-
+}
+.centralizar{ /*centralizando div rodape*/
+    text-align: center;
 
 }
