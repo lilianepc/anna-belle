@@ -4,14 +4,21 @@ body{
     font: 16px arial, helvetica, sans-serif
 }
 #principal{ /*DIV PRINCIPAL*/
-    border: 1px solid red;  /*bordas*/
+    
     width: 900px; /*largura*/
     
 }
 #menu{ /*DIV MENU*/
     background: #c5c5b2;  /*cor de fundo*/
-    border: 1px solid red; /*bordas*/
-    width: 866px;  /*largura borda*/
     padding: 18px ;  /*espaçamento interno*/
+
+}
+a { /*linnks da paginas (home,contato...)*/
+    color: #4b566a;
+    text-decoration: none; /*remover anderline dos links*/
+    font-weight: bold;  /*tipos de letras */
+    padding: 5px; /*espaço interno entre os links*/
+
+
 
 }
